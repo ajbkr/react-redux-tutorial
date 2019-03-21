@@ -1,3 +1,23 @@
+React Redux Tutorial
+====================
+
+Slightly reworked example from Valentino Gagliardi's [React Redux Tutorial for
+Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/).
+
+I have added linting using [JavaScript Standard Style](https://standardjs.com/).
+
+To run the linter:
+
+```
+$ npm run lint
+```
+
+And to execute the server itself:
+
+```
+$ npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
